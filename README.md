@@ -1,6 +1,10 @@
-# Welcome to your CDK TypeScript project
+# Welcome to my react app <img src="assets/svg/aws.svg"/> CDK project
 
-This is a blank project for CDK development with TypeScript.
+<img src="assets/svg/cdk.svg" height="75px" />
+
+<br />
+
+This is my react project for CDK development with TypeScript.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
